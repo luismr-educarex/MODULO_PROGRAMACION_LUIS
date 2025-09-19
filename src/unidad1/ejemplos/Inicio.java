@@ -6,6 +6,7 @@ public class Inicio {
 		
 		System.out.println("Hola Mundo!");
 		System.out.println("Ya tenemos repositorios!");
+		System.out.println("Ya tenéis mi repositorio!");
 	}
 
 }
